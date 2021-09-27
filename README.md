@@ -5,4 +5,4 @@ An interesting talk from Arne Martin Aurlien that was given during **JSConf 2014
 - _Thue_ - a matrioshka language based on nondeterministic string rewriting. Sample `Hello World` in _Thue_: `a::=~Hello World! ::= a`
 - _and many more..._
 
-### The speech can be found [here](https://2014.jsconf.eu/speakers/arne-martin-aurlien-implement-an-esoteric-programming-language-for-fun-and-well-fun.html)
+### The talk can be found [here](https://2014.jsconf.eu/speakers/arne-martin-aurlien-implement-an-esoteric-programming-language-for-fun-and-well-fun.html)
